@@ -1,5 +1,5 @@
 # 🚲 Bike Stores Sales Analysis
-<img src="Outputs/pexels-dnrgs-11923271.jpg" alt="logo" width="600" height="700"/>
+<img src="Outputs/pexels-dnrgs-11923271.jpg" alt="logo" width="1000" height="700"/>
 This project focuses on in-depth sales performance analysis and staff efficiency across different stores. The goal is to identify top-performing sales staff, uncover sales trends before and after June 2018, analyze customer behavior, and provide actionable insights to improve business performance
 
 
