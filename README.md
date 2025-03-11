@@ -1,5 +1,5 @@
 # 🚲 Bike Stores Sales Analysis
-<img src="Outputs/pexels-dnrgs-11923271.jp" alt="logo" width="1000" height="600"/>
+<img src="Outputs/pexels-dnrgs-11923271.jpg" alt="logo" width="1000" height="600"/>
 
 
 
