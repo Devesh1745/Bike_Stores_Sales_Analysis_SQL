@@ -25,7 +25,7 @@ The schema contains the following tables:
 # Query Task :
 Q1 Which stores have the highest total sales?
 
-<img src="Outputs/Q1.PNG" alt="Q1.png" width="400"/> &nbsp;
+<img src="Outputs/Q1.PNG" width="400"/> &nbsp;
 
 Q2 Total sales per store and year?
 
