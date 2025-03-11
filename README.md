@@ -29,6 +29,8 @@ Q1 Which stores have the highest total sales?
 
 Q2 Total sales per store and year?
 
+<img src="Outputs/Q2.PNG" width="400"/> &nbsp;
+
 Q3 monthly sales trend?
 
 Q4 What are the top cities where most of the orders are placed?
