@@ -4,24 +4,15 @@ This project focuses on in-depth sales performance analysis and staff efficiency
 
 # Database Schema
 The schema contains the following tables:
-
-Brands: Stores details about bike brands. 
-
-Categories: Stores product category details.
-
-Customers: Stores customer information.
-
-Order_items: Stores details of the items ordered.
-
-Orders: Stores order details such as order dates and status. 
-
-Products: Stores product details like brand, category, and pricing.
-
-Staffs: Stores information about staff members.
-
-Stocks: Stores stock levels of products across stores.
-
-Stores: Stores store information such as location and contact details.
+- **Brands**: Stores details about bike brands.
+- **Categories**: Stores product category details.
+- **Customers**: Stores customer information.
+- **Order_items**: Stores details of the items ordered.
+- **Orders**: Stores order details such as order dates and status.
+- **Products**: Stores product details like brand, category, and pricing.
+- **Staffs**: Stores information about staff members.
+- **Stocks**: Stores stock levels of products across stores.
+- **Stores**: Stores store information such as location and contact details.
 
 
 
