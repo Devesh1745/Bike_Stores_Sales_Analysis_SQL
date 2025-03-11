@@ -41,11 +41,11 @@ Q4 What are the top cities where most of the orders are placed?
 
 Q5 Did Discounts Reduce After June 2018?
 
-<img src="Outputs/Q5.PNG" width="400"/> &nbsp;
+<img src="Outputs/Q5.PNG" width="200"/> &nbsp;
 
 Q6 Total revenue per category?
 
-<img src="Outputs/Q6.PNG" width="400"/> &nbsp;
+<img src="Outputs/Q6.PNG" width="200"/> &nbsp;
 
 Q7 Store-Wise Best Performing Staff?
 
@@ -53,7 +53,8 @@ Q7 Store-Wise Best Performing Staff?
 
 Q8 Best sales seasons (Which quarter performs best?)
 
-<img src="Outputs/Q8.PNG" width="400"/> &nbsp;
+<img src="Outputs/Q8.PNG" width="200"/> &nbsp;
+
 Q9 What are the most popular product categories by sales volume?
 
 <img src="Outputs/Q9.PNG" width="400"/> &nbsp;
@@ -64,7 +65,7 @@ Q10 Effect of discounts on sales (Do discounts increase sales?)
 
 Q11 Forecast next month’s sales ?(Simple moving average)
 
-<img src="Outputs/Q11.PNG" width="400"/> &nbsp;
+<img src="Outputs/Q11.PNG" width="200"/> &nbsp;
 
 Q12 Store Sales Before & After June 2018?
 
