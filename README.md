@@ -34,9 +34,10 @@ Q2 Total sales per store and year?
 Q3 monthly sales trend?
 
 <img src="Outputs/Q3.PNG" width="200"/> &nbsp;
+
 Q4 What are the top cities where most of the orders are placed?
 
-<img src="Outputs/Q4.PNG" width="400"/> &nbsp;
+<img src="Outputs/Q4.PNG" width="200"/> &nbsp;
 
 Q5 Did Discounts Reduce After June 2018?
 
