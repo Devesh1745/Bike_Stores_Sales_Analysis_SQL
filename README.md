@@ -8,7 +8,7 @@ This project focuses on in-depth sales performance analysis and staff efficiency
 <img src="Outputs/mysql.webp" alt="mysql_img.png" width="300"/> &nbsp;
 
 # Project Result :
-[Click here to get full code](Analysis CODE.sql)
+[Click here to get full code](AnalysisCODE.sql)
 
 # Query Task :
 
