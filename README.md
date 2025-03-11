@@ -20,7 +20,7 @@ The schema contains the following tables:
 <img src="Outputs/mysql.webp" alt="mysql_img.png" width="300"/> &nbsp;
 
 # Project Result :
-[Click here to get full code](Analysis_CODE.sql)
+[Click here to get full code](Analysis_CODE.sql) Solve Code
 
 # Query Task :
 Q1 Which stores have the highest total sales?
