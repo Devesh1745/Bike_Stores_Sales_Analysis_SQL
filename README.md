@@ -24,6 +24,8 @@ The schema contains the following tables:
 ## Project Result :
 [Click here to get full code](Analysis_CODE.sql) 
 
+[Click here to get Basic Analysis Info code](Basic_Company_info_CODE.sql)
+
 ## Query Task :
 Q1. Which stores have the highest total sales?
 
