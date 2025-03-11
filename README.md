@@ -75,7 +75,7 @@ Q12 Store Sales Before & After June 2018?
 
 # Conclusion:
 
-✔ Top-performing staff drive revenue → Recognizing and rewarding them can boost motivation and productivity.
-✔ Sales decline post-June 2018 → Understanding why this happened (competition, economy, pricing changes) is crucial.
+--✔ Top-performing staff drive revenue → Recognizing and rewarding them can boost motivation and productivity.
+--✔ Sales decline post-June 2018 → Understanding why this happened (competition, economy, pricing changes) is crucial.
 ✔ Staff training needed for underperformers → Improving customer interaction and upselling strategies can increase revenue.
 ✔ Future forecasting & strategy → Investing in predictive analytics can help plan for upcoming trends.
