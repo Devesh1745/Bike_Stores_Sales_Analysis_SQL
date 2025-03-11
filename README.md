@@ -23,6 +23,29 @@ The schema contains the following tables:
 [Click here to get full code](Analysis_CODE.sql)
 
 # Query Task :
+Q1 Which stores have the highest total sales?
+<img src="Outputs/Q1.PNG" alt="Q1.png" width="400"/> &nbsp;
+
+Q2 Total sales per store and year?
+
+Q3 monthly sales trend?
+
+Q4 What are the top cities where most of the orders are placed?
+
+Q5 Did Discounts Reduce After June 2018?
+
+Q6 Total revenue per category?
+
+Q7 Store-Wise Best Performing Staff?
+
+Q8 Best sales seasons (Which quarter performs best?)
+
+Q9 What are the most popular product categories by sales volume?
+
+Q10 Effect of discounts on sales (Do discounts increase sales?)
+
+Q11 Forecast next month’s sales ?(Simple moving average)
+
 
 
 
