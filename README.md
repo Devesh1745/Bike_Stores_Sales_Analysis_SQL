@@ -2,7 +2,7 @@
 <img src="Outputs/pexels-dnrgs-11923271.jpg" alt="logo" width="1000" height="700"/>
 This project focuses on in-depth sales performance analysis and staff efficiency across different stores. The goal is to identify top-performing sales staff, uncover sales trends before and after June 2018, analyze customer behavior, and provide actionable insights to improve business performance
 
-# Database Schema
+## Database Schema
 The schema contains the following tables:
 - **Brands**: Stores details about bike brands.
 - **Categories**: Stores product category details.
@@ -19,10 +19,10 @@ The schema contains the following tables:
 ## 🔨 Tools Used :
 <img src="Outputs/mysql.webp" alt="mysql_img.png" width="300"/> &nbsp;
 
-# Project Result :
+## Project Result :
 [Click here to get full code](Analysis_CODE.sql) 
 
-# Query Task :
+## Query Task :
 Q1 Which stores have the highest total sales?
 
 <img src="Outputs/Q1.PNG" width="400"/> &nbsp;
@@ -73,7 +73,7 @@ Q12 Store Sales Before & After June 2018?
 
 
 
-# Conclusion:
+## Conclusion:
 
 ✔ Top-performing staff drive revenue → Recognizing and rewarding them can boost motivation and productivity.
 
