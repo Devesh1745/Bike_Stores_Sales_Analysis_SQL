@@ -1,5 +1,5 @@
 # 🚲 Bike Stores Sales Analysis
-<img src="Outputs/pexels-dnrgs-11923271.jpg" alt="logo" width="1000" height="700"/>
+<img src="Outputs/pexels-dnrgs-11923271.jpg" alt="logo" width="1200" height="700"/>
 
 # Project Description
 The goal of this project is to build a structured SQL database for a Bike Store and perform analytical queries on it. The database includes tables representing various entities such as products, orders, customers, stores, etc. Using these tables, SQL queries are run to extract valuable business insights such as sales trends, product performance
